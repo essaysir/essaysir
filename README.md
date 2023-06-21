@@ -16,5 +16,4 @@
 <div align="left">
   현재 공부중인 부분들 
 </div>
-[CS지식 공부][cs-knowledge]
-[cs-knowledge]: https://github.com/essaysir/essaysir/tree/CS-%EC%8A%A4%ED%84%B0%EB%94%94
+[CS지식 공부](https://github.com/essaysir/essaysir/tree/CS-%EC%8A%A4%ED%84%B0%EB%94%94)
