@@ -14,7 +14,7 @@
    <br/>
  
 <div align="left">
-  현재 공부중인 부분들
+  📖현재 공부중인 부분
   <br>
-  <a href="https://github.com/essaysir/essaysir/tree/CS-%EC%8A%A4%ED%84%B0%EB%94%94" style="color:orange">CS 지식공부</a>
+  <a href="https://github.com/essaysir/essaysir/tree/CS-%EC%8A%A4%ED%84%B0%EB%94%94">💻CS 지식공부</a>
 </div>
